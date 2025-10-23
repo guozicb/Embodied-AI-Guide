@@ -102,4 +102,4 @@ Q target有着不同的形式。
 + 对于Metrics的两种定义
 ![alt text](<image-23.png>)
 ![alt text](<image-24.png>)
-+ 后续不展开，是一个类似的求导过程，梯度上升$s.t$ $J(\theta)->Maximum$
++ 后续不展开，是一个类似的求导过程，梯度上升$\s.t$\ $J(\theta)->Maximum$
